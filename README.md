@@ -5,7 +5,7 @@ Greetings!
 This repository contains **fixes and improvements** the **rp_bangclaw** map for Garry's Mod.  
 You'll find editable **.VMF** versions compatible with both **Hammer** and **Hammer++**.
 
-> [!Warning]
+> [!NOTE]
 > **This project is a work in progress.**  
 > The repository does **not** represent the final version of the map.  
 > Fixes and improvements are still being applied — expect changes and possible issues.
@@ -17,7 +17,7 @@ You'll find editable **.VMF** versions compatible with both **Hammer** and **Ham
 3. 🟨 **VMF Fix v2 - YELLOW** — All textures fixed.
     Upcoming: brush updates and optimizations.
 
-> [!Warning]
+> [!IMPORTANT]
 > Some brushes were fixed in version 3, but it still requires improvements.  
 > **Compilation leaks or errors may occur** — please report if you find any!
 
@@ -40,7 +40,7 @@ Then set the path in `mount.cfg`:
 
 Big thanks to everyone who contributed!
 
-- **Satton (RU)** – Find Issues  
+- **Satton (RU)** – Finding issues  
 - **Boxden** (web_artur) – Massive help with development
 
 ---
@@ -52,7 +52,7 @@ Big thanks to everyone who contributed!
 Этот репозиторий содержит **исправления и улучшения** карты **rp_bangclaw** для Garry's Mod.  
 Представлены редактируемые версии **.VMF** для **Hammer** и **Hammer++**.
 
-> [!Warning]
+> [!NOTE]
 > **Проект находится в процессе разработки.**  
 > Репозиторий **не представляет финальную версию** карты.  
 > Исправления и улучшения ещё продолжаются — возможны изменения и ошибки.
@@ -64,7 +64,7 @@ Big thanks to everyone who contributed!
 3. 🟨 **VMF Fix v2 — YELLOW** — исправлены все текстуры.  
    Ожидаются обновления брашей и оптимизация.
 
-> [!Warning]
+> [!IMPORTANT]
 > Версия 3 всё ещё требует доработки.  
 > Возможны ошибки при компиляции — пожалуйста, сообщайте, если найдёте!
 
@@ -86,5 +86,5 @@ Big thanks to everyone who contributed!
 
 ### 🙌 Благодарности
 
-- **Satton (RU)** — поиск ошибок  
-- **Boxden** (web_artur) — внёс огромный вклад
+- **Satton (RU)** — Поиск ошибок  
+- **Boxden** (web_artur) — Внёс огромный вклад
