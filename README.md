@@ -2,7 +2,7 @@
 
 Greetings!
 
-This repository contains **fixes and improvements** for the popular **rp_bangclaw** map used in Garry's Mod.  
+This repository contains **fixes and improvements** the **rp_bangclaw** map for Garry's Mod.  
 You'll find editable **.VMF** versions compatible with both **Hammer** and **Hammer++**.
 
 > ⚠️ **This project is a work in progress.**  
