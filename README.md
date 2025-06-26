@@ -1,46 +1,61 @@
-# rp_bangclaw Fixes for Garry's Mod
-
-## ENG 🇬🇧
+# 🔧 rp_bangclaw Fixes for Garry's Mod
 
 Greetings!
 
-In this repository, I'm working on fixing the **rp_bangclaw** map for Garry's Mod. VMF versions are provided for both **Hammer** and **Hammer++**:
+This repository contains **fixes and improvements** for the popular **rp_bangclaw** map used in Garry's Mod.  
+You'll find editable **.VMF** versions compatible with both **Hammer** and **Hammer++**.
 
-1. **original VMF** — the original map from the Workshop, unchanged.  
-2. **VMF Fix v1 - RED** — fixed textures affected by a broken cubemap.  
-3. **VMF Fix v2 - YELLOW** — all textures have been fixed (brush updates and optimizations are planned).
+---
 
-Some brushwork was fixed in version 3, but it still needs improvements.  
-**Possible compilation errors** — please let us know if you encounter any.
+## 📦 Included Versions
+
+1. 🗺️ **original VMF** — Unmodified version of the map from the Steam Workshop.
+2. 🟥 **VMF Fix v1 - RED** — Fixed textures affected by broken cubemaps.
+3. 🟨 **VMF Fix v2 - YELLOW** — All textures fixed.
+    Upcoming: brush updates and optimizations.
+
+> ⚠️ Some brushes were fixed in version 3, but it still requires improvements.  
+> **Compilation leaks or errors may occur** — please report if you find any!
+
+---
+
+## 💬 Feedback & Contact
 
 If you find any issues, feel free to contact me on **Discord**: `yaroslavtarka`
 
-**Thanks for the help!**  
-Big credit to **@boxden** for their contributions.
+---
+
+## 🙌 Credits
+
+Big thanks to everyone who contributed!
+
+- **Satton (RU)** – Find Issues  
+- **Boxden** (web_artur) – Massive help with development
 
 ---
 
-## RUS 🇷🇺
+## 🌐 Русская версия
 
-Приветствую!
+Добро пожаловать!
 
-В этом репозитории я работаю над исправлением карты **rp_bangclaw** для Garry's Mod. Представлены версии VMF для **Hammer** и **Hammer++**:
+Этот репозиторий содержит **исправления и улучшения** карты **rp_bangclaw** для Garry's Mod.  
+Представлены редактируемые версии **.VMF** для **Hammer** и **Hammer++**.
 
-1. **original VMF** — оригинальная карта из воркшопа, без изменений.  
-2. **VMF Fix v1 - RED** — исправлены текстуры, повреждённые из-за cubemap.  
-3. **VMF Fix v2 - YELLOW** — все текстуры исправлены (ожидается обновление брашей и оптимизация).
+### Включённые версии:
 
-В версии 3 исправлены некоторые браши, но она всё ещё требует доработки.  
-**Возможны ошибки при компиляции** — сообщите, если найдёте.
+1. 🗺️ **original VMF** — оригинальная карта из воркшопа, без изменений.  
+2. 🟥 **VMF Fix v1 — RED** — исправлены текстуры, повреждённые из-за cubemap.  
+3. 🟨 **VMF Fix v2 — YELLOW** — исправлены все текстуры.  
+   Ожидаются обновления брашей и оптимизация.
 
-Если заметите недочёты, пожалуйста, свяжитесь со мной в **Discord**: `yaroslavtarka`
+> ⚠️ Версия 3 всё ещё требует доработки.  
+> Возможны ошибки при компиляции — пожалуйста, сообщайте, если найдёте!
 
-**Спасибо за помощь!**  
-Огромный вклад внёс **@boxden**!
+### Обратная связь
 
----
+Если нашли проблему, пожалуйста, свяжитесь со мной в **Discord**: `yaroslavtarka`
 
-## Thanks
+### Благодарности
 
-- **Satton (RU)**  
-- **web_artur (Boxden)**
+- **Satton (RU)** — поиск ошибок  
+- **Boxden** (web_artur) — внёс огромный вклад
