@@ -16,7 +16,7 @@ Some brushwork was fixed in version 3, but it still needs improvements.
 If you find any issues, feel free to contact me on **Discord**: `yaroslavtarka`
 
 **Thanks for the help!**  
-Big credit to **"Boxden"** for their contributions.
+Big credit to **@boxden** for their contributions.
 
 ---
 
@@ -36,7 +36,7 @@ Big credit to **"Boxden"** for their contributions.
 Если заметите недочёты, пожалуйста, свяжитесь со мной в **Discord**: `yaroslavtarka`
 
 **Спасибо за помощь!**  
-Огромный вклад внёс **"Boxden"**!
+Огромный вклад внёс **@boxden**!
 
 ---
 
