@@ -1,4 +1,4 @@
-# 🔧 rp_bangclaw Fixes for Garry's Mod
+## rp_bangclaw Fixes for Garry's Mod
 
 Greetings!
 
@@ -9,7 +9,7 @@ You'll find editable **.VMF** versions compatible with both **Hammer** and **Ham
 > The repository does **not** represent the final version of the map.  
 > Fixes and improvements are still being applied — expect changes and possible issues.
 
-## 📦 Included Versions
+### 📦 Included Versions
 
 1. 🗺️ **original VMF** — Unmodified version of the map from the Steam Workshop.
 2. 🟥 **VMF Fix v1 - RED** — Fixed textures affected by broken cubemaps.
@@ -19,11 +19,22 @@ You'll find editable **.VMF** versions compatible with both **Hammer** and **Ham
 > ⚠️ Some brushes were fixed in version 3, but it still requires improvements.  
 > **Compilation leaks or errors may occur** — please report if you find any!
 
-## 💬 Feedback & Contact
+### 💬 Feedback & Contact
 
 If you find any issues, feel free to contact me on **Discord**: `yaroslavtarka`
 
-## 🙌 Credits
+### 🔧 For Developers
+
+Clone or download the repository.  
+Then set the path in `mount.cfg`:
+
+```cfg
+"rp_bangclaw content"	"G:\rp_bangclaw.vmf-fix-\content"
+```
+> [!NOTE]
+> Your path maybe different
+
+### 🙌 Credits
 
 Big thanks to everyone who contributed!
 
@@ -56,6 +67,18 @@ Big thanks to everyone who contributed!
 ### 💬 Обратная связь
 
 Если нашли проблему, пожалуйста, свяжитесь со мной в **Discord**: `yaroslavtarka`
+
+### 🔧 Для разработчиков
+
+Скачайте или клонируйте репозиторий.  
+Пропишите путь в `mount.cfg`:
+
+```cfg
+"rp_bangclaw content"	"G:\rp_bangclaw.vmf-fix-\content"
+```
+
+> [!NOTE]
+> Ваш путь может отличаться
 
 ### 🙌 Благодарности
 
