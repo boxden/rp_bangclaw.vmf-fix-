@@ -5,6 +5,10 @@ Greetings!
 This repository contains **fixes and improvements** for the popular **rp_bangclaw** map used in Garry's Mod.  
 You'll find editable **.VMF** versions compatible with both **Hammer** and **Hammer++**.
 
+> ⚠️ **This project is a work in progress.**  
+> The repository does **not** represent the final version of the map.  
+> Fixes and improvements are still being applied — expect changes and possible issues.
+
 ## 📦 Included Versions
 
 1. 🗺️ **original VMF** — Unmodified version of the map from the Steam Workshop.
@@ -30,10 +34,14 @@ Big thanks to everyone who contributed!
 
 ## 🌐 Русская версия
 
-Добро пожаловать!
+Приветствую!
 
 Этот репозиторий содержит **исправления и улучшения** карты **rp_bangclaw** для Garry's Mod.  
 Представлены редактируемые версии **.VMF** для **Hammer** и **Hammer++**.
+
+> ⚠️ **Проект находится в процессе разработки.**  
+> Репозиторий **не представляет финальную версию** карты.  
+> Исправления и улучшения ещё продолжаются — возможны изменения и ошибки.
 
 ### 📦 Включённые версии:
 
