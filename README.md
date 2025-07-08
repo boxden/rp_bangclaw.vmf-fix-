@@ -12,7 +12,7 @@ You'll find editable **.VMF** versions compatible with both **Hammer** and **Ham
 
 ### 📦 Included Versions
 
-1. 🗺️ **original VMF** — Unmodified version of the map from the Steam Workshop.
+1. 🗺️ **VMF original** — Unmodified version of the map from the Steam Workshop.
 2. 🟥 **VMF Fix v1 - RED** — Fixed textures affected by broken cubemaps.
 3. 🟨 **VMF Fix v2 - YELLOW** — All textures fixed.
     Upcoming: brush updates and optimizations.
@@ -59,7 +59,7 @@ Big thanks to everyone who contributed!
 
 ### 📦 Включённые версии:
 
-1. 🗺️ **original VMF** — оригинальная карта из воркшопа, без изменений.  
+1. 🗺️ **VMF original** — оригинальная карта из воркшопа, без изменений.  
 2. 🟥 **VMF Fix v1 — RED** — исправлены текстуры, повреждённые из-за cubemap.  
 3. 🟨 **VMF Fix v2 — YELLOW** — исправлены все текстуры.  
    Ожидаются обновления брашей и оптимизация.
